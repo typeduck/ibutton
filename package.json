@@ -1,0 +1,19 @@
+{
+  "name": "ibutton",
+  "version": "1.0.0",
+  "description": "handle Maxim iButton serial numbers",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha lib/test.js"
+  },
+  "keywords": [
+    "ibutton",
+    "1wire"
+  ],
+  "devDependencies": {
+    "mocha": "3.4.2",
+    "should": "11.2.1"
+  },
+  "license": "MIT",
+  "author": "Ruquay K Calloway"
+}
