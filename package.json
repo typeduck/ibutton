@@ -1,6 +1,6 @@
 {
   "name": "ibutton",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "handle Maxim iButton serial numbers",
   "main": "lib/index.js",
   "scripts": {
